@@ -224,7 +224,7 @@
    9.5.2: <a href="https://adaligand.github.io/Year-12/Travail/9.52aloud.html">Read aloud</a>&nbsp;<a href="https://adaligand.github.io/Year-12/Travail/">Dictation</a>&nbsp;<a href="https://adaligand.github.io/Year-12/Travail/">Reading</a>
   </p>
   <p>
-   9.6: <a href="https://adaligand.github.io/Year-12/Travail/9.6aloud.html">Read aloud</a>&nbsp;<a href="https://adaligand.github.io/Year-12/Travail/"9.6dict.html>Dictation</a>&nbsp;<a href="https://adaligand.github.io/Year-12/Travail/">Reading</a>
+   9.6: <a href="https://adaligand.github.io/Year-12/Travail/9.6aloud.html">Read aloud</a>&nbsp;<a href="https://adaligand.github.io/Year-12/Travail/9.6dict.html">Dictation</a>&nbsp;<a href="https://adaligand.github.io/Year-12/Travail/">Reading</a>
   </p>
    <p>
    9.6.2: <a href="https://adaligand.github.io/Year-12/Travail/9.62aloud.html">Read aloud</a>&nbsp;<a href="https://adaligand.github.io/Year-12/Travail/9.62dict.html">Dictation</a>&nbsp;<a href="https://adaligand.github.io/Year-12/Travail/">Reading</a>
