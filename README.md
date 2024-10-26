@@ -33,10 +33,25 @@
 <details>
   <summary>Module 2 - La cybersociété</summary>
   <p>
-   Les matières: <a href="https://adaligand.github.io/Year-12/">Read aloud</a>&nbsp;<a href="https://adaligand.github.io/Year-12/">Dictation</a>&nbsp;<a href="https://adaligand.github.io/Year-12/">Reading</a>
+   2.1: <a href="https://adaligand.github.io/Year-12/Cybersociete/2.1aloud.html">Read aloud</a>&nbsp;<a href="https://adaligand.github.io/Year-12/Cybersociete/2.1dict.html">Dictation</a>&nbsp;<a href="https://adaligand.github.io/Year-12/">Reading</a>
   </p>
   <p>
-    L'heure: <a href="https://adaligand.github.io/Year-12/">Read aloud</a>&nbsp;<a href="https://adaligand.github.io/Year-12/">Dictation</a>&nbsp;<a href="https://adaligand.github.io/Year-12/">Reading</a>
+   2.2: <a href="https://adaligand.github.io/Year-12/Cybersociete/2.2aloud.html">Read aloud</a>&nbsp;<a href="https://adaligand.github.io/Year-12/Cybersociete/2.2dict.html">Dictation</a>&nbsp;<a href="https://adaligand.github.io/Year-12/">Reading</a>
+  </p>
+  2.2.2: <a href="https://adaligand.github.io/Year-12/Cybersociete/2.22aloud.html">Read aloud</a>&nbsp;<a href="https://adaligand.github.io/Year-12/Cybersociete/2.22dict.html">Dictation</a>&nbsp;<a href="https://adaligand.github.io/Year-12/">Reading</a>
+   </p>
+  <p>
+  2.3: <a href="https://adaligand.github.io/Year-12/Cybersociete/2.3aloud.html">Read aloud</a>&nbsp;<a href="https://adaligand.github.io/Year-12/Cybersociete/2.3dict.html">Dictation</a>&nbsp;<a href="https://adaligand.github.io/Year-12/">Reading</a>
+  </p>
+   <p>
+  2.3.2: <a href="https://adaligand.github.io/Year-12/Cybersociete/2.32aloud.html">Read aloud</a>&nbsp;<a href="https://adaligand.github.io/Year-12/Cybersociete/2.32dict.html">Dictation</a>&nbsp;<a href="https://adaligand.github.io/Year-12/">Reading</a>
+  </p>
+   <p>
+  2.4: <a href="https://adaligand.github.io/Year-12/Cybersociete/2.4aloud.html">Read aloud</a>&nbsp;<a href="https://adaligand.github.io/Year-12/Cybersociete/2.4dict.html">Dictation</a>&nbsp;<a href="https://adaligand.github.io/Year-12/">Reading</a>
+  </p>
+   <p>
+  2.4.2: <a href="https://adaligand.github.io/Year-12/Cybersociete/2.42aloud.html">Read aloud</a>&nbsp;<a href="https://adaligand.github.io/Year-12/Cybersociete/2.42dict.html">Dictation</a>&nbsp;<a href="https://adaligand.github.io/Year-12/">Reading</a>
+  </p>
   </p>
 </details>
 
