@@ -58,10 +58,25 @@
 <details>
   <summary>Module 3 - Le bénévolat</summary>
   <p>
-   Les matières: <a href="https://adaligand.github.io/Year-12/">Read aloud</a>&nbsp;<a href="https://adaligand.github.io/Year-12/">Dictation</a>&nbsp;<a href="https://adaligand.github.io/Year-12/">Reading</a>
+  3.1: <a href="https://adaligand.github.io/Year-12/Benevolat/3.1aloud.html">Read aloud</a>&nbsp;<a href="https://adaligand.github.io/Year-12/Benevolat/3.1dict.html">Dictation</a>&nbsp;<a href="https://adaligand.github.io/Year-12/">Reading</a>
   </p>
   <p>
-    L'heure: <a href="https://adaligand.github.io/Year-12/">Read aloud</a>&nbsp;<a href="https://adaligand.github.io/Year-12/">Dictation</a>&nbsp;<a href="https://adaligand.github.io/Year-12/">Reading</a>
+    3.2: <a href="https://adaligand.github.io/Year-12/Benevolat/3.2aloud.html">Read aloud</a>&nbsp;<a href="https://adaligand.github.io/Year-12/Benevolat/3.2dict.html">Dictation</a>&nbsp;<a href="https://adaligand.github.io/Year-12/">Reading</a>
+  </p>
+  <p>
+  3.2.2: <a href="https://adaligand.github.io/Year-12/Benevolat/3.2.2aloud.html">Read aloud</a>&nbsp;<a href="https://adaligand.github.io/Year-12/Benevolat/3.22dict.html">Dictation</a>&nbsp;<a href="https://adaligand.github.io/Year-12/">Reading</a>
+  </p>
+  <p>
+    3.3: <a href="https://adaligand.github.io/Year-12/Benevolat/3.3aloud.html">Read aloud</a>&nbsp;<a href="https://adaligand.github.io/Year-12/Benevolat/3.3dict.html">Dictation</a>&nbsp;<a href="https://adaligand.github.io/Year-12/">Reading</a>
+  </p>
+  <p>
+  3.3.2: <a href="https://adaligand.github.io/Year-12/Benevolat/3.32aloud.html">Read aloud</a>&nbsp;<a href="https://adaligand.github.io/Year-12/Benevolat/3.32dict.html">Dictation</a>&nbsp;<a href="https://adaligand.github.io/Year-12/">Reading</a>
+  </p>
+  <p>
+    3.4: <a href="https://adaligand.github.io/Year-12/Benevolat/3.4aloud.html">Read aloud</a>&nbsp;<a href="https://adaligand.github.io/Year-12/Benevolat/3.4dict.html">Dictation</a>&nbsp;<a href="https://adaligand.github.io/Year-12/">Reading</a>
+  </p>
+  <p>
+    3.4.2: <a href="https://adaligand.github.io/Year-12/Benevolat/3.42aloud.html">Read aloud</a>&nbsp;<a href="https://adaligand.github.io/Year-12/Benevolat/3.42dict.html">Dictation</a>&nbsp;<a href="https://adaligand.github.io/Year-12/">Reading</a>
   </p>
 </details>
 <details>
